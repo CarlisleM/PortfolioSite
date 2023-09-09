@@ -32,7 +32,7 @@ const icons: icon_array[] = [
     },
     {
         icon: <AiTwotoneFilePdf size="28" />,
-        link: "https://github.com/CarlisleM",
+        link: "https://plum-marcelle-85.tiiny.site",
         text: "Resume",
     },
 ]

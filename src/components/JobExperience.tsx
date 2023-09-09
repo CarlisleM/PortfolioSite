@@ -9,6 +9,7 @@ const jobData = [
         jobDescription:
             "Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and  websites for organizations in the community.",
         techStack: ["Roblox Studio", "Rojo", "Roact", "Lua", "Python"],
+        link: "https://www.splashmusic.com",
     },
 
     {
@@ -77,7 +78,7 @@ const JobExperience = () => {
                     }
                 >
                     <div className="flex flex-row mt-12 group relative">
-                        <div className="absolute roundexd-md -inset-x-4 -inset-y-4 z-0 lg:-inset-x-6 lg:block bg-[hsl(0,0%,98.4%,0.2)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-20"></div>
+                        <div className="absolute roundexd-md -inset-x-4 -inset-y-4 z-0 lg:-inset-x-6 lg:block bg-[hsl(0,0%,98.4%,0.2)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-20 hover:cursor-pointer"></div>
 
                         <div className="w-1/4 text-gray-400 text-xs font-semibold uppercase mt-1">
                             <span>
